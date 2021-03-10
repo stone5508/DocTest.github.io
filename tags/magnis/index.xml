@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>magnis on Doc Test of Stone</title>
+    <link>https://github.com/stone5508/DocTest.github.io.githttps://github.com/stone/tags/magnis/</link>
+    <description>Recent content in magnis on Doc Test of Stone</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2019. First Last</copyright>
+    <lastBuildDate>Wed, 10 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/stone5508/DocTest.github.io.githttps://github.com/stone/tags/magnis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Doc Test of Stone</title>
+      <link>https://github.com/stone5508/DocTest.github.io.githttps://github.com/stone/notes/notes_1/</link>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/stone5508/DocTest.github.io.githttps://github.com/stone/notes/notes_1/</guid>
+      <description>Hugo Installation on Windows 10  Download the according Hugo zip file for Windows 10 from Hugo Releases. Extract the zip file and you will see one executable and a couple markdown files. Copy hugo.exe to your root folder, i.e. C:\Hugo\bin. Open Control Panel, find All Control Panel Items and then System; add your Hugo path (i.e.C:\Hugo\bin) to your Environment Variables as both in User Variables and System Variables; click OK to all buttons.</description>
+    </item>
+    
+  </channel>
+</rss>
